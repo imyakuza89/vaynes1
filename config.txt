@@ -28,7 +28,7 @@ owner = 405683225445531648
 // If you use !!, the play command will be !!play
 // If you do not set this, the prefix will be an @mention of the bot (@Botname play)
 
-prefix = "$"
+prefix = "S"
 
 
 // If you set this, it modifies the default game of the bot
@@ -38,7 +38,7 @@ prefix = "$"
 // where X is the title. If you don't include an action, it will use the
 // default of "Playing"
 
-game = "Sativa,"
+game = "Type Splay"
 
 
 // If you set this, it will modify the default status of bot
